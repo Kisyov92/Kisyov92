@@ -8,6 +8,16 @@
 <p align="left">    I'm a civil engineer transitioning to become a frontend developer. In the past 18 months, I've developed skills in HTML, CSS, JavaScript, and React through courses and documentation. I'm eager to start my career as a frontend developer and am currently seeking job or internship opportunities throughout Germany. While I currently live in the Hesse province, I'm open to relocating.</p>
 
 <br>
+<br>
+<h2 align="center"> Portfolio </h2>
+<p align="left">    Feel free to explore my portfolio website: https://atanas-kisyov.netlify.app/. There, you can discover a selection of my personal projects, featuring:</p>
+<ul>
+ <li>A React games website developed with React, React Router, and Redux.</li>
+ <li>Games crafted using VanillaJS</li>
+ <li>Replicated website projects</li>
+</ul>
+
+<br>
 <h2 align="center">Skills</h2>
 
 <p align="center">
