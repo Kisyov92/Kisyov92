@@ -10,7 +10,7 @@
 <br>
 <br>
 <h2 align="center"> Portfolio </h2>
-<p align="left">    Feel free to explore my portfolio website: https://atanas-kisyov.netlify.app/. There, you can discover a selection of my personal projects, featuring:</p>
+<p align="left">    Feel free to explore my <a href="https://atanas-kisyov.netlify.app" target="_blank">portfolio website</a>. There, you can discover a selection of my personal projects, featuring:</p>
 <ul>
  <li>A React games website developed with React, React Router, and Redux.</li>
  <li>Games crafted using VanillaJS</li>
